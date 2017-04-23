@@ -1,2 +1,2 @@
 # s5_a10_ram_test
-Simple project for M20K read/writing. It shows some problems in timing in Arria 10.
+Simple project for M20K read/writing. It shows some timing problems in Arria 10.
